@@ -26,5 +26,5 @@ I have experience working with databases and writing SQL queries to manage and r
 
 ## Contact Me 💬
 
-If you have any questions or would like to work together on a project, feel free to contact me at [deanepieter@gmail.com](mailto:your.email@example.com) or connect with me on [LinkedIn]( www.linkedin.com/in/pieterdeane ).
+If you have any questions or would like to work together on a project, feel free to contact me at [deanepieter@gmail.com](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/mwlite/in/pieterdeane)
 
