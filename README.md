@@ -1,7 +1,5 @@
 # Hi there, I'm Pieter 👋
 
-# My Portfolio
-
 ## About Me
 
 Hi, I'm a software developer with experience in HTML, CSS, JavaScript, React.js, and SQL. I'm passionate about creating engaging and functional web applications and always striving to improve my skills and stay up to date with the latest technologies.
