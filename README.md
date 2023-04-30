@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I’m Pieter Deane, a front-end developer who loves to solve problems. I’m passionate about creating beautiful and functional websites that are easy to use and navigate. I have experience working with HTML, CSS, JavaScript, and React, and I’m always looking for new challenges to tackle. When I’m not coding, you can find me running or trying out new recipes in the kitchen.
+Hi there! I’m Pieter Deane, a Software developer who loves to solve problems. I’m passionate about creating beautiful and functional websites that are easy to use and navigate. I have experience working with HTML, CSS, JavaScript, and React, and I’m always looking for new challenges to tackle. When I’m not coding, you can find me running or trying out new recipes in the kitchen.
 
 
 ## 🌐 Socials:
