@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hello! I'm Pieter Deane, a passionate software developer who loves to solve problems and create beautiful, functional websites that are easy to use and navigate. When I'm not coding, you can find me running or experimenting with new recipes in the kitchen.
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pieter1821)](https://git.io/streak-stats)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/pieter.deane.5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pieterdeane) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pieter_deane) 
 
