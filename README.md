@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Pieter1821)
+
 # 💫 About Me:
 Hello! I'm Pieter Deane, a passionate software developer who loves to solve problems and create beautiful, functional websites that are easy to use and navigate. When I'm not coding, you can find me running or experimenting with new recipes in the kitchen.
 
