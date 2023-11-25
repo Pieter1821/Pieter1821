@@ -17,6 +17,6 @@ Hello! I'm Pieter Deane, a passionate software developer who loves to solve prob
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pieter1821&show_icons=true&theme=&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pieter1821&show_icons=true&theme=&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR1)
 
 
