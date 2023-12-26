@@ -2,7 +2,9 @@
 
 # 💫 About Me:
 
-Greetings! I'm Pieter Deane, a dedicated software developer adept at crafting elegant and user-friendly websites. I thrive on problem-solving and bring creativity to every project. Beyond coding, I enjoy running and experimenting with new recipes in the kitchen. Let's build something extraordinary together!
+Hello, I’m Pieter Deane, a dedicated software developer adept at crafting elegant and user-friendly websites. I thrive on problem-solving and bring creativity to every project. Beyond coding, I enjoy running and experimenting with new recipes in the kitchen.
+
+I also have some prompt engineering skills that allow me to create better AI-generated content and applications. 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Pieter1821)](https://git.io/streak-stats)
