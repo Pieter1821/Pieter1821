@@ -23,4 +23,6 @@ I also have some prompt engineering skills that allow me to create better AI-gen
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pieter1821&show_icons=true&theme=&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR1)
 
+![buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+
 
