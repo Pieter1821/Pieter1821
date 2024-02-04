@@ -19,9 +19,26 @@ I also have some prompt engineering skills that allow me to create better AI-gen
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+![image](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pieter1821&show_icons=true&theme=&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
