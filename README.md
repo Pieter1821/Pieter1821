@@ -2,9 +2,11 @@
 
 # 💫 About Me:
 
-Hello, I’m Pieter Deane, a dedicated software developer adept at crafting elegant and user-friendly websites. I thrive on problem-solving and bring creativity to every project. Beyond coding, I enjoy running and experimenting with new recipes in the kitchen.
+Hi my name is Pieter Deane i am a Software Developer with a strong foundation in HTML, CSS, JavaScript, React.js, Next.js, and TypeScript. I have honed my skills through personal projects and am proficient in deploying applications using platforms like Vercel and Netlify.
 
-I also have some prompt engineering skills that allow me to create better AI-generated content and applications. 
+I am adept at ensuring the quality of my applications through end-to-end testing with Cypress and unit testing with Jest. I thrive in collaborative environments and am eager to contribute to a team that values innovation and growth.
+
+Above all, my ultimate goal is to achieve customer satisfaction by delivering high-quality, user-friendly applications. I am actively seeking my first professional role where I can apply my skills and learn from industry experts.
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Pieter1821)](https://git.io/streak-stats)
