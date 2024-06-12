@@ -1,7 +1,9 @@
 
 # 💫 About Me:
 
-Hi my name is Pieter Deane i am a Software Developer with a strong foundation in HTML, CSS, JavaScript, React.js, Next.js, and TypeScript. I have honed my skills through personal projects and am proficient in deploying applications using platforms like Vercel and Netlify.
+Hi I'm Pieter Deane 
+
+I am a Software Developer with a strong foundation in HTML, CSS, JavaScript, React.js, Next.js, and TypeScript. I have honed my skills through personal projects and am proficient in deploying applications using platforms like Vercel and Netlify.
 
 I am adept at ensuring the quality of my applications through end-to-end testing with Cypress and unit testing with Jest. I thrive in collaborative environments and am eager to contribute to a team that values innovation and growth.
 
