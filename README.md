@@ -1,74 +1,85 @@
-# 💫 About Me:
+<h1 align="center">Hi there, I'm Pieter 👋👨‍💻</h1>
 
-Hi, I'm **Pieter Deane** 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=435&lines=Software+Developer;Web+Craftsman;Full+Stack+in+Progress...;Lifelong+Learner" alt="Typing SVG" />
+</p>
 
-I'm a passionate **Software Developer** with a solid foundation in modern web technologies like **HTML**, **CSS**, **JavaScript**, **React.js**, **Next.js**, and **TypeScript**. I enjoy building user-centric web applications and continuously pushing my boundaries through personal and collaborative projects.
-
-🚀 I thrive in team environments that value creativity, continuous learning, and innovation. I'm always up for new challenges and excited to contribute meaningfully to impactful projects.
-
-- 🌱 Currently learning: **C#** and **ASP.NET**
-- 🎯 Goal: Transitioning into **Full Stack Development**
-
----
-
-## 🌐 Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pieterdeane)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pieter_deane)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</p>
 
 ---
 
-# 💻 Tech Stack
+## 💡 About Me
 
-### 🧰 Current Stack:
-<div>
-  <table>
-    <tr>
-      <td><img width="60" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></td>
-      <td><img width="60" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></td>
-      <td><img width="60" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></td>
-      <td><img width="60" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></td>
-      <td><img width="60" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></td>
-      <td><img width="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></td>
-    </tr>
-  </table>
-</div>
+I'm **Pieter Deane**, a web enthusiast with a strong focus on **modern front-end development**. I build responsive, scalable, and interactive web experiences using:
 
-### 📚 Currently Exploring:
-<div>
-  <table>
-    <tr>
-      <td><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#"/></td>
-      <td><img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET" title="ASP.NET"/></td>
-    </tr>
-  </table>
-</div>
+- **React.js** ⚛️
+- **Next.js** 🚀
+- **TypeScript** 🛡️
+- **HTML/CSS/JavaScript** 🎨
 
-### 🛠️ Tools & Platforms:
-<div>
-  <table>
-    <tr>
-      <td><img width="60" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" title="VS Code"/></td>
-      <td><img width="60" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></td>
-    </tr>
-  </table>
-</div>
+Currently on a journey expanding into **Full Stack Development**, exploring the wonders of **C#** and **ASP.NET**!
 
 ---
 
-# 📊 GitHub Stats
+## 🔥 Tech Stack
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pieter1821&theme=react)](https://git.io/streak-stats)
+### 🧩 Front-End
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 
-![Pieter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pieter1821&show_icons=true&theme=react)
+### 🧠 Currently Learning
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pieter1821&layout=compact&theme=react)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Pieter1821)
+### 🛠️ Tools
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ---
 
-⭐️ Inspired by [Pieter1821](https://github.com/Pieter1821)
+## 🌍 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pieterdeane) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pieter_deane) 
+
+> 💬 *Let's talk code, ideas, and the web. I'm always open to new collaborations and conversations.*
+
+---
+
+## 🚀 Projects & Highlights
+
+💡 _Stay tuned — Highlighted projects coming soon!_  
+🛠️ _From UI experiments to full-fledged web apps, I love tinkering and shipping._
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pieter1821&theme=react" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pieter1821&show_icons=true&theme=react" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pieter1821&layout=compact&theme=react" />
+</p>
+
+---
+
+## ✨ Fun Facts
+
+- 🎮 I gamify learning by building little tools and utilities
+- 🎨 I appreciate clean, aesthetic UI as much as clean code
+- ☕ Coffee and code are my daily constants
+
+---
+
+<p align="center">Thanks for stopping by! ⭐️</p>
 
 
 
