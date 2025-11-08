@@ -1,120 +1,83 @@
+# 👋 Hi, I'm Pieter Deane
+
+### _Driven by Curiosity, Guided by Growth_
+
+I'm a lifelong learner with an enduring curiosity about how things work — and how they can work better. I believe in **progress through understanding**, and I see every project as a chance to think deeper, grow wiser, and build with intent.
+
+> **"Programs must be written for people to read, and only incidentally for machines to execute."** — Harold Abelson
+
+---
+
+## 🔥 My Philosophy
+
+- **Curiosity** keeps me exploring new technologies and methodologies
+- **Discipline** keeps me improving my craft every single day
+- **Growth** keeps me moving forward, always learning, always building
+
+---
+
+## 🎯 What I'm Working On
+
+- 🌱 Currently mastering **Azure, C#, ASP.NET, and SQL**
+- 👯 Collaborating on [Full Stack Development Projects](https://github.com/Pieter1821)
+- 💡 Building scalable, maintainable solutions with modern tech stacks
+- 📚 Always expanding my knowledge across the full development spectrum
+
+---
+
+## 💬 Ask Me About
+
+- **React** & Frontend Architecture
+- **.NET** & Backend Development  
+- **Full Stack Development** workflows and best practices
+- How to build for people, not just machines
+
+---
+
+## 🛠️ Languages & Tools
+
 <div align="center">
 
-# `$ whoami`
+**Frontend** | **Backend** | **Infrastructure** | **Design & Collaboration**
+---|---|---|---
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Pieter+Deane+%7C+Software+Developer;Building+with+React+%E2%9A%9B%EF%B8%8F+%7C+Next.js+%F0%9F%9A%80+%7C+.NET+%F0%9F%94%B7;Curious+mind+exploring+the+full+stack" alt="Typing SVG" />
-</p>
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-```console
-$ cat ~/about.txt
-```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pieter1821&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pieter1821&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pieter1821&theme=dark&hide_border=true&background=0d1117)
 
 </div>
 
-<p align="center">
-A curious developer building modern web applications.<br/>
-Specializing in frontend while expanding across the full stack.
-</p>
+---
+
+## 🤝 Connect With Me
+
+I'm always open to discussing new projects, creative ideas, or opportunities to collaborate.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pieterdeane)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pieter1821)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/PieterDeane)
+
+</div>
 
 ---
 
 <div align="center">
 
-## `$ ls -la ~/tech_stack`
+**_Always learning. Always building. Always curious._**
 
-</div>
-
-### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-</p>
-
-### Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</p>
-
-### Tools & DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
----
-
-<div align="center">
-
-## `$ cat ~/inspirations.md`
-
-</div>
-
-<p align="center">
-<i>"The only way to do great work is to love what you do."</i><br/>
-— Steve Jobs
-</p>
-
----
-
-<div align="center">
-
-## `$ git log --graph --oneline`
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pieter1821&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0c10&title_color=61dafb&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pieter1821&theme=github-dark-blue&hide_border=true&background=0a0c10&stroke=61dafb&ring=61dafb&fire=f85149&currStreakLabel=61dafb" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pieter1821&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0c10&title_color=61dafb&text_color=c9d1d9" alt="Top Languages" />
-</p>
-
----
-
-<div align="center">
-
-## `> connect --social`
-
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pieterdeane">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://buymeacoffee.com/PieterDeane">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-```console
-$ echo "Thanks for visiting! Feel free to explore my repos ⭐"
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:61DAFB&height=120&section=footer" width="100%" />
+_Feel free to explore my repositories and reach out if you'd like to collaborate!_
 
 </div>
